@@ -11,7 +11,10 @@ function validate(callback){
 }
 function redirect(){
     // document.location.href="../home.html",true;
-    window.location.assign("../home.html");
+    window.location.href="../home.html";
+}
+function logout(){
+    window.location.href="../index.html";
 }
 function displaytodo(){
     var xhttp=new XMLHttpRequest();
