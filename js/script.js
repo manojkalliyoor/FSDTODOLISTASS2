@@ -10,7 +10,7 @@ function validate(callback){
     }
 }
 function redirect(){
-    window.location.href="../home.html","true";
+    window.location.href="home.html";
 }
 function logout(){
     window.location.href="../index.html";
