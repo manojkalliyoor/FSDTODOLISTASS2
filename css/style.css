@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+}
+.mnbdy{
+    background:url(../img/todoimg2.jpg);
+    background-size: cover;
+}
+.login{
+    margin-top:3%;
+    margin-left:70%;
+    border: 5px solid pink;
+    padding: 38px;
+    background-color: pink;
+}
+.sub{
+    margin-left:125px;
+}
+.link1{
+    text-decoration: none;
+    margin-top: 10%;
+}
+.link2{
+    margin-left: 50px;
+    text-decoration: none;
+    margin-top: 25px;
+}
+.bttntodo{
+    margin-left:900px;
+}
+.bttnlogout{
+    margin-left:45px;
+}
+.tb{
+    margin:60px;
+}
