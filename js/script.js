@@ -13,7 +13,7 @@ function redirect(){
     window.location.href="home.html";
 }
 function logout(){
-    window.location.href="../index.html";
+    window.location.href="index.html";
 }
 function displaytodo(){
     var xhttp=new XMLHttpRequest();
